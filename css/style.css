@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+body{
+	font: 16px/1.4em Arial, Helvetica, sans-serif;
+	background:#EEE;
+}
+.page{
+	max-width:900px;padding:30px;border:solid 1px #CCC;background:#FFF;margin:60px auto;min-height:600px;
+}
